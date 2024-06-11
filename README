@@ -1,0 +1,12 @@
+# Alquiler de Autos de Dueños Independientes
+
+## Descripción
+Aplicación para facilitar el alquiler de autos entre particulares, permitiendo a los dueños registrar sus vehículos y a los usuarios alquilar vehículos según sus necesidades.
+
+## Características Principales
+- Registro y autenticación de usuarios
+- Gestión de vehículos para los dueños
+- Búsqueda y filtrado de vehículos
+- Reservas y pagos en línea
+- Sistema de calificaciones y comentarios
+- Notificaciones push y por correo electrónico
